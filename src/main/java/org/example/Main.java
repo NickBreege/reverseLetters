@@ -1,13 +1,13 @@
 package org.example;
 
-import org.example.service.ReverseService;
+import org.example.service.ReverseLetters;
 
 public class Main {
     public static void main(String[] args) {
         String str = "J@va the be$t!123";
 
-        ReverseService reverseService = new ReverseService();
+        ReverseLetters reverseLetters = new ReverseLetters();
 
-        System.out.println(reverseService.reverseString(str));
+        System.out.println(reverseLetters.reverseString(str));
     }
 }

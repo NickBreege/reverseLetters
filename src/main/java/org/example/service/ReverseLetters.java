@@ -1,6 +1,6 @@
 package org.example.service;
 
-public class ReverseService {
+public class ReverseLetters {
 
     public String reverseString(String str) {
 
