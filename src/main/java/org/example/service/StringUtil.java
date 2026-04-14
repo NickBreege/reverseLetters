@@ -1,8 +1,8 @@
 package org.example.service;
 
-public class ReverseLetters {
+public class StringUtil {
 
-    public String reverseString(String str) {
+    public String reverseLetters(String str) {
 
         char[] charArray = str.toCharArray();
 
