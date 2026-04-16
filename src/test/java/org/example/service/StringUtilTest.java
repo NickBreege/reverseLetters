@@ -1,7 +1,5 @@
-package service;
+package org.example.service;
 
-
-import org.example.service.StringUtil;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
